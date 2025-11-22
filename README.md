@@ -138,6 +138,14 @@
   6. **许可证链接：** 请阅读 [GNU Affero General Public License (AGPL-3.0)](https://www.gnu.org/licenses/agpl-3.0.html) 了解更多详情
 - TuneFree将遵守该开源许可，感谢SPlayer这一优秀的项目！更多详细说明请前往[SPlayer](https://github.com/imsyy/SPlayer)仓库了解！
 
+## vercel部署
+1.在 Vercel 项目设置中：
+进入项目设置 → General
+找到 "Output Directory" 设置
+设置为 out/renderer
+2.环境变量，      url="api"
+
+
 
 ## ⭐ Star History
 
